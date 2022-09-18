@@ -1,0 +1,20 @@
+.tablink{
+    border: none;
+    background-color: rgba(238, 234, 234, 0.815);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+width: 25%;
+float: left;
+font-size: 25px;
+color: white;
+}
+.tablink:hover{
+    background-color: rgb(185, 184, 184);
+}
+.tabcontent{
+    display: none;
+    color: white;
+    padding: 100px 25px;
+    height: 100%;
+}
